@@ -88,8 +88,8 @@ static/     CSS and JavaScript files
 
 **Option A - Clone with Git:**
 ```bash
-git clone https://github.com/Sadia-Afzaal/aurora-ecommerce-store.git
-cd aurora-ecommerce-store
+git clone https://github.com/Sadia-Afzaal/codealpha-ecommerce-store.git
+cd codealpha-ecommerce-store
 ```
 
 **Option B - Download ZIP:**
